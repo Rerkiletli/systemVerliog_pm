@@ -1,0 +1,7 @@
+# Mac OS X requirements using Homebrew
+
+brew install yosys
+brew install icarus-verilog
+brew install gtkwave
+brew install graphviz
+brew install verilator
